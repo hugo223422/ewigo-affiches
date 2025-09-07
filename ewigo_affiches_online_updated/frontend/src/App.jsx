@@ -1,0 +1,1 @@
+// Composant principal React avec import automatique depuis URL

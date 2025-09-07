@@ -1,0 +1,1 @@
+// Fonction serverless pour récupérer automatiquement les 4 premières photos et les infos principales depuis l'URL de l'annonce
